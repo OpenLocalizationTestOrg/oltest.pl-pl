@@ -6,7 +6,8 @@
     "e2e\\osmond-test-1.md"
   ],
   "727be8c1708119fe5e48ae3ff5a0e7e901103c7d": [
-    "e2e\\Ping.md"
+    "e2e\\Ping.md",
+    "e2e\\Pong.md"
   ],
   "e95ba46a6944d097bac52cb8257a64c4e422238b": [
     "e2e\\test-scenario-1.md"

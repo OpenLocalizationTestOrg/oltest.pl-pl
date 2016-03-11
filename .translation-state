@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "db15d3d032bbff69e80239df1883af52fcfa9aa7",
+  "LastProcessedCommit": "570613fda57497de9c6a0ac5a1963d0d962373bc",
   "LastTranslatedCommit": null,
   "Items": {
     "6b46804023690e9d49f53b16f91c3ef20b14d51f": {
@@ -65,7 +65,8 @@
       "HandoffReason": 1,
       "DependencyFrom": null,
       "FilePathList": [
-        "e2e\\Ping.md"
+        "e2e\\Ping.md",
+        "e2e\\Pong.md"
       ],
       "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.pl-pl\\master\\Ping.95b58797b320fac8f901ea501ac186551882a36c.pl-pl.xlf",
       "HandoffFileCommit": "91ff35e1c4addf78f18c41384d380e1c7fc14dcc",
