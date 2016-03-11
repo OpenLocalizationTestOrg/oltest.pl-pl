@@ -1,11 +1,39 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 0
+ Total Files | 2
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [e2e\Ping.md](https://github.com/OpenLocalizationTest/oltest/blob/38da15b01a1c12c05a6d96e70347b905b7b415c8/e2e/Ping.md) | HandedOffSuccess | [Details](#494f2f4ee04c62e79e80fe6a8519b361486fead47)
+ [e2e\Pong.md](https://github.com/OpenLocalizationTest/oltest/blob/38da15b01a1c12c05a6d96e70347b905b7b415c8/e2e/Pong.md) | HandedOffSuccess | [Details](#494f2f4ee04c62e79e80fe6a8519b361486fead48)
 
 ## Item Details
+##### <a name='494f2f4ee04c62e79e80fe6a8519b361486fead47'></a> Source: [e2e\Ping.md](https://github.com/OpenLocalizationTest/oltest/blob/38da15b01a1c12c05a6d96e70347b905b7b415c8/e2e/Ping.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [Ping.95b58797b320fac8f901ea501ac186551882a36c.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/c2b91247a4cdc4cb319ce84c55d3dc8a855c885e/ol-handoff/OpenLocalizationTestOrg/oltest.pl-pl/master/Ping.95b58797b320fac8f901ea501ac186551882a36c.pl-pl.xlf)
+* Handoff Datetime: 2016-03-11 03:55:35
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
+##### <a name='494f2f4ee04c62e79e80fe6a8519b361486fead48'></a> Source: [e2e\Pong.md](https://github.com/OpenLocalizationTest/oltest/blob/38da15b01a1c12c05a6d96e70347b905b7b415c8/e2e/Pong.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [Ping.95b58797b320fac8f901ea501ac186551882a36c.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/c2b91247a4cdc4cb319ce84c55d3dc8a855c885e/ol-handoff/OpenLocalizationTestOrg/oltest.pl-pl/master/Ping.95b58797b320fac8f901ea501ac186551882a36c.pl-pl.xlf)
+* Handoff Datetime: 2016-03-11 03:55:35
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
 
 ## Error Details
 
