@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "50098cbdb054814e347a9d0e2d625f1cbf21173b",
+  "LastProcessedCommit": "4f4da1987606dcf5bdd5c3b47590ac215dd99481",
   "LastTranslatedCommit": null,
   "Items": {
     "6b46804023690e9d49f53b16f91c3ef20b14d51f": {
@@ -545,7 +545,8 @@
       "HandoffReason": 1,
       "DependencyFrom": null,
       "FilePathList": [
-        "e2e\\testmove.md"
+        "e2e\\testmove.md",
+        "e2e\\testmove\\testmove.md"
       ],
       "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.pl-pl\\master\\testmove.0bcb04c679577b8e613df6ec7d93633d52e852b9.pl-pl.xlf",
       "HandoffFileCommit": "6c13a8debe6b89800344d53c5f25f6b32d40f7e9",
