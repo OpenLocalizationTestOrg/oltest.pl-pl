@@ -1,26 +1,11 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 1
+ Total Files | 0
 
 ## File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [e2e\test-scenario-1.md](https://github.com/OpenLocalizationTest/oltest/blob/cc9ef5ccde2684391171b393d91eac1b13d1d62b/e2e/test-scenario-1.md) | HandedOffSuccess | [Details](#1cd230752f52bb9786821493df48c8a5a2a2f90310)
 
 ## Item Details
-##### <a name='1cd230752f52bb9786821493df48c8a5a2a2f90310'></a> Source: [e2e\test-scenario-1.md](https://github.com/OpenLocalizationTest/oltest/blob/cc9ef5ccde2684391171b393d91eac1b13d1d62b/e2e/test-scenario-1.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [test-scenario-1.974d721459da0ff5eab675ae57b2ea10d235c32c.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/d77666a1c8a1a90e691d376d2160f2c892ab9a04/ol-handoff/OpenLocalizationTestOrg/oltest.pl-pl/master/test-scenario-1.974d721459da0ff5eab675ae57b2ea10d235c32c.pl-pl.xlf)
-* Handoff Datetime: 2016-03-11 09:15:36
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
 
 ## Error Details
 
