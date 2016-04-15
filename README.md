@@ -5,6 +5,7 @@ trouble shooting for yaml handoff
 
 sds
 
+new for 删除 configuration
 
 <!--HONumber=Apr16_HO2-->
 

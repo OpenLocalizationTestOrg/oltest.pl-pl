@@ -1,5 +1,5 @@
 # Pong!
-1
+1 edit by VIM
 
 add performance scope
 
@@ -9,10 +9,10 @@ run command <code language="javascript">var array = [];</code>
 
 <code>this is code part</code>
 sdfsdf
-sfdsdf
+沙发
 
 
 
-<!--HONumber=Apr16_HO2-->
+<!--HONumber=Apr16_HO3-->
 
 
